@@ -13,7 +13,7 @@ DevelopTool=AQT
 [Actions]
 Action0=Action0\Script.mts
 1 Login=Action6\Script.mts
-2 Bank accounts=Action7\Script.mts
+
 
 [VuserProfiles]
 Profiles=Default Profile
